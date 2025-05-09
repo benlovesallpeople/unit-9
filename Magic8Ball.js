@@ -27,7 +27,6 @@ function preload() {
     { text: "Indubitably.", color: [190, 18, 60] } 
   ];
 }
-
 function setup() {
   createCanvas(400, 500);
   textAlign(CENTER, CENTER);
